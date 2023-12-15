@@ -51,3 +51,5 @@ cd ..
 pwd
 cd ~/project
 touch countdown.sh
+chmod +x questionnaire.sh
+chmod +x countdown.sh
