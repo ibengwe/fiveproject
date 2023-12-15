@@ -97,3 +97,4 @@ ls --color=auto /bin
 cls
 clear
 man sleep
+sleep 3
