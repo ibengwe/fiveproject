@@ -133,3 +133,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ~~ Bingo Number Generator ~~
 "
 ./bingo.sh
+printenv
