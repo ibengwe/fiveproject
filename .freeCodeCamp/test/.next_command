@@ -98,3 +98,4 @@ cls
 clear
 man sleep
 sleep 3
+./countdown.sh 3
