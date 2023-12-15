@@ -141,3 +141,4 @@ echo $RANDOM
 __vsc_prompt_cmd_original
 ./bingo.sh
 __vsc_prompt_cmd_original
+./bingo.sh
