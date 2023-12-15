@@ -44,3 +44,10 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+cd ~
+pwd
+touch countdown.sh
+cd ..
+pwd
+cd ~/project
+touch countdown.sh
