@@ -94,3 +94,6 @@ help
 ls/
 ls --color=auto /
 ls --color=auto /bin
+cls
+clear
+man sleep
