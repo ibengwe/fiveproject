@@ -249,3 +249,4 @@ help [[ or help [[ expression ]]
 [[ "hello world" =~ ^h ]]
 [[ "hello world" =~ ^h.+d$ ]]
 VAR="hello world"
+echo $VAR
