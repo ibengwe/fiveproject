@@ -175,3 +175,4 @@ ARR=("a" "b" "c")
 echo ${ARR[1]}
 echo ${ARR[@]}
 declare -p ARR
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
